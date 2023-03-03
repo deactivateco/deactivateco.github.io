@@ -3,6 +3,8 @@ HTML::Index
 
 Description
 -----------
+CREATED THIS TEST SITE TO SHOW GITHUB CAN HOST WEBSITES.
+new site: https://deactivateapparel.com
 
 HTML::Index is a set of modules for creating an index of HTML documents so that
 they can be subsequently searched by keywords, or by Boolean combinations of
@@ -42,4 +44,4 @@ itself.
 Author
 ------
 
-Ave Wrigley <Ave.Wrigley@itn.co.uk>
+Ave Wrigley <andrew@deactivateapparel.com>
