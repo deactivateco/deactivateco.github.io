@@ -34,14 +34,7 @@ The usual ...
 [ > make test ]
 > make install
 
-Copyright
----------
-
-Copyright (c) 2001 Ave Wrigley. All rights reserved. This program is free
-software; you can redistribute it and/or modify it under the same terms as Perl
-itself.
-
 Author
 ------
 
-Ave Wrigley <andrew@deactivateapparel.com>
+Andrew <andrew@deactivateapparel.com>
