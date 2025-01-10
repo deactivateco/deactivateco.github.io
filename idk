@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.editorAssociations": {
+        "*.smx": "default"
+    },
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\ascot\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe"
+}
+{openExplorerOnEnd "https://deactivateapparel.com" }
